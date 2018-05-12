@@ -1,0 +1,51 @@
+_repo: Childhood-s-Favorites-and-Fairy-StoriesThe-Young-Folks-Treasury-Volume-1_19993
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Hale, Edward Everett
+    aliases:
+    - Ingham, Frederic
+    - Hale, E. E. (Edward Everett)
+    - Darragh, J. Thomas
+    - Hale, Edward E.
+    birthdate: 1822
+    deathdate: 1909
+    gutenberg_agent_id: '650'
+    url: http://www.gutenberg.org/2009/agents/650
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
+  - agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+  - agent_name: Forbush, William Byron
+    birthdate: 1868
+    deathdate: 1927
+    gutenberg_agent_id: '9015'
+    url: http://www.gutenberg.org/2009/agents/9015
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2006-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Nursery rhymes'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Fairy tales'
+- !lcsh 'Fables'
+- !lcsh 'Children''s stories'
+title: 'Childhood''s Favorites and Fairy Stories
+
+  The Young Folks Treasury, Volume 1'
+url: http://www.gutenberg.org/ebooks/19993
